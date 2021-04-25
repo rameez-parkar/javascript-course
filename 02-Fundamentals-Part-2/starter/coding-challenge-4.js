@@ -1,3 +1,5 @@
+'use strict';
+
 // Coding Challenge #4
 
 // Let's improve Steven's tip calculator even more, this time using loops!

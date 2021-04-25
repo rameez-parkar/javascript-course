@@ -1,3 +1,5 @@
+'use strict';
+
 // Coding Challenge #2
 
 // Steven is still building his tip calculator, using the same rules as before: Tip 15% of
